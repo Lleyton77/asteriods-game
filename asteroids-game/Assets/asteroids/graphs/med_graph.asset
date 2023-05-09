@@ -13,5 +13,6 @@ MonoBehaviour:
   m_Name: med_graph
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-204.0,"y":-144.0},"guid":"03c8745f-b4f0-43da-9785-ac1b94b0ecc6","$version":"A","$type":"Unity.VisualScripting.Start"},{"coroutine":false,"defaultValues":{},"position":{"x":-204.0,"y":60.0},"guid":"fd856e03-3b4c-4e43-a251-d0f6df4d8009","$version":"A","$type":"Unity.VisualScripting.Update"}],"$version":"A"}}'
-    _objectReferences: []
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":93.64486,"y":-47.96263},"zoom":0.6999999,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-204.0,"y":-144.0},"guid":"03c8745f-b4f0-43da-9785-ac1b94b0ecc6","$version":"A","$type":"Unity.VisualScripting.Start"},{"nest":{"source":"Macro","macro":0,"embed":null},"defaultValues":{},"position":{"x":-18.0,"y":-126.0},"guid":"bc18b7ad-8644-48e4-af2a-8757ecbbd71c","$version":"A","$type":"Unity.VisualScripting.SubgraphUnit"}],"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 020d3b636cc23714a92670a472cca070, type: 2}

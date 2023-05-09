@@ -13,5 +13,6 @@ MonoBehaviour:
   m_Name: small_graph
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-204.0,"y":-144.0},"guid":"13f2a53b-d696-408f-9c6e-628b12433adc","$version":"A","$type":"Unity.VisualScripting.Start"},{"coroutine":false,"defaultValues":{},"position":{"x":-204.0,"y":60.0},"guid":"af386b20-dfae-4470-a8b2-9f1b92dc9095","$version":"A","$type":"Unity.VisualScripting.Update"}],"$version":"A"}}'
-    _objectReferences: []
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-204.0,"y":-144.0},"guid":"13f2a53b-d696-408f-9c6e-628b12433adc","$version":"A","$type":"Unity.VisualScripting.Start"},{"nest":{"source":"Macro","macro":0,"embed":null},"defaultValues":{},"position":{"x":-32.0,"y":-118.0},"guid":"815bb56c-fc2b-4e37-8c7e-647f07150c64","$version":"A","$type":"Unity.VisualScripting.SubgraphUnit"}],"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 020d3b636cc23714a92670a472cca070, type: 2}
