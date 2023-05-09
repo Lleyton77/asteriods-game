@@ -166,8 +166,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Scene","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
-    _objectReferences: []
+    _json: '{"declarations":{"Kind":"Scene","collection":{"$content":[{"name":"Astroid
+      List","value":{"$content":[0,1,2,3,4,5,6,7],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 1984958867870291661, guid: 65783c406e50d714594c765dfc7956b9, type: 3}
+    - {fileID: 521333117564745933, guid: d642a4612d5a7d140aa707a5741004ed, type: 3}
+    - {fileID: 3636563220694851374, guid: e95893d9de1a34946b37e368e52c3b7f, type: 3}
+    - {fileID: 6594511341023495174, guid: 59a70f91221802241ad2cd86f952d343, type: 3}
+    - {fileID: 4895073235782106906, guid: 0f8b0e88aaec0d64b81bcd761f942b75, type: 3}
+    - {fileID: 7846479344647625126, guid: bf82eb636067eab49968650517b692d2, type: 3}
+    - {fileID: 6791939023241956209, guid: eeba73e8e6841e24fa85d565c0506b72, type: 3}
+    - {fileID: 348430198701870480, guid: 2256179682b8537498edaf71c1b55c85, type: 3}
 --- !u!4 &16973302
 Transform:
   m_ObjectHideFlags: 0
